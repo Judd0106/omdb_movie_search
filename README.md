@@ -1,6 +1,3 @@
-Here's a simplified `README.md` file tailored for users to run the project in JupyterLab:
-
----
 
 ## **Movie Information Lookup Application**
 
